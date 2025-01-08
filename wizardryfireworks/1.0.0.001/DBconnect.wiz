@@ -1,0 +1,7 @@
+<%
+Dim dbRst, dbConn
+Set dbConn = Server.CreateObject("ADODB.Connection")
+dbConn.ConnectionString = "Provider=Microsoft.Jet.OLEDB.4.0; Data Source=" & Server.MapPath("\Dbase\wizDB.mdb") & ";"
+dbConn.Open
+Set dbRst = dbConn.Execute(strSQL)
+%>

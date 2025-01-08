@@ -1,0 +1,33 @@
+body {
+	background-image: url(/images/mainbg_1024.jpg);
+	background-repeat: no-repeat;
+	margin-top:10px;
+	margin-left:9px;
+}
+.maintble {
+	font-size:18px;
+	Font-face:Arial Black;
+	color:#FFFF99;
+	text-align: center;
+}
+
+a:visited {
+	color: #FFFF99;
+}
+a:link {
+	color: #FFFF99;
+}
+a:hover {
+	color: #FFFF99;
+}
+
+.pageheader {
+	background-image: url(/images/pageheader.jpg);
+}
+
+.text {
+	font-size:14px;
+	Font-face:Arial;
+	color:#FFFF99;
+	text-align: center;
+}

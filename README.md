@@ -1,18 +1,21 @@
-# eztv.it Web Theme
+# wizardryfireworks.com ASP Custom CRM / CMS
 
-A theme created for a competition at eztv.it
-Web-Theme-EZTV.it
+A CRM / CMS created for wizardryfireworks.com
 
 ## Getting Started
 
-This wont require any implimentation.
+copy all files to the inetpub\wwwroot folder
 
 ### Prerequisites
 
-None
+IIS
+ASP
+MS Database
 
 ## Built With
 
+- [ASP]
+- [MSDB]
 - [HTML]
 - [CSS]
 
@@ -22,11 +25,11 @@ Project not taking contributions
 
 ## Authors
 
-- **Ian Blott** - [blott.com.au](http://blott.com.au)
+- **Ian Blott** - [blott.com.au](http://iblott.com)
 
 ## License
 
-Copyright (C) 2018-2019 Ian Blott - All Rights Reserved
+Copyright (C) 2003 Ian Blott - All Rights Reserved
 
 This project can not be copied and/or distributed without the express permission of Ian Blott
 

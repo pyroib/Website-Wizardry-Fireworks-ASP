@@ -1,0 +1,67 @@
+body {
+	background-image: url(/images/bg_1024.jpg);
+	background-repeat: no-repeat;
+	margin-top:10px;
+	margin-left:9px;
+	font-size:12px;
+}
+.maintble {
+	font-size:18px;
+	Font-face:Arial Black;
+	color:#FFFF99;
+	text-align: center;
+}
+
+.login {
+	font-size:18px;
+	Font-face:Arial Black;
+	color:#FFFFFF;
+	text-align: right;
+}
+
+
+a:visited {
+	color: #FFFF99;
+}
+a:link {
+	color: #FFFF99;
+}
+a:hover {
+	color: #FFFF99;
+}
+
+.pageheader {
+	background-image: url(/images/pageheader.jpg);
+}
+.employment {
+	background-image: url(/images/mini_menus.gif);
+}
+
+.newstitle {
+	font-weight:bold;
+	font-size:14px;
+
+}
+
+.text {
+	font-size:14px;
+	Font-face:Arial;
+	color:#FFFF99;
+	text-align: center;
+}
+
+.whitetext {
+	font-size:12px;
+	Font-face:Arial;
+	color:#FFFFFF;
+	text-align: center;
+	background-color: #224444;
+	border: thin #666666;
+}
+.TextNoBG {
+	font-size:12px;
+	Font-face:Arial;
+	color:#FFFFFF;
+	text-align: center;
+
+}
